@@ -4,6 +4,7 @@ drinks = {
     "cappuccino": {"water": 250, "milk": 100, "coffee": 24, "price": 3.00}
 }
 
+
 resources = {
     "water": 1000,
     "milk": 400,
