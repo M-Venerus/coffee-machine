@@ -3,7 +3,7 @@
 ### How To Use
 1. Select your beverage type.
 2. Enter coins.
-3. Recieve coffee!
+3. Receive coffee!
 
 ### Features
 - Holds money from coffee sales.
